@@ -1,17 +1,9 @@
-## Olá, Sou o Giovani Cavalheri!
-
-<br>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GiovaniCavalheri&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniCavalheri&layout=compact&theme=dracula&hide=procfile" alt="Top Languages" width="300"/>
-    </td>
-  </tr>
-</table>
+<div>
+  <a href="https://github.com/GiovaniCavalheri">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovaniCavalheri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniCavalheri&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
 <br>
 
