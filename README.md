@@ -1,14 +1,7 @@
-# Oi! Sou o Giovani Cavalheri  
-
-<br>
-
-💻 Desenvolvedor FullStack  
-
-<br>
-
-Atualmente, estou cursando:  
-
-- 🎓 Análise e Desenvolvimento de Sistemas - UNOESTE  
+# Oi! Sou o Giovani Cavalheri!
+## 💻 Desenvolvedor FullStack
+### Atualmente, estou cursando:
+• 🎓  Análise e Desenvolvimento de Sistemas - Unoeste; <br>
 
 <br>
 
