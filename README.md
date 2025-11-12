@@ -15,12 +15,13 @@
 <h2 align="left"></h2>
 
 ###
-
 <div align="center">
   <img align="left" height="150" src="https://media.tenor.com/3NP3M9aViooAAAAi/duck-waddling.gif" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GiovaniCavalheri&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=GiovaniCavalheri&theme=dracula&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovaniCavalheri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
+
+
 
 <br>
 
